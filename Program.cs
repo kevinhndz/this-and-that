@@ -1,4 +1,6 @@
-﻿int[] TwoSumValores(int[] nums, int target)
+﻿// o (n^2)
+
+int[] TwoSumValores(int[] nums, int target)
 {
     for (int i = 0; i < nums.Length; i++)
     {
