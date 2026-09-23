@@ -1,4 +1,4 @@
-﻿// o (n^2)
+﻿// o (n^2) f
 
 int[] TwoSumValores(int[] nums, int target)
 {
